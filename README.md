@@ -26,5 +26,5 @@ npm install
 
 1. Listar todos los productos: npm run start GET products
 2. Consultar un producto específico: npm run start GET products/<productId>
-3. Crear un producto nuevo: npm run start POST products <title> <price> <category>
+3. Crear un producto nuevo: `npm run start POST products <title> <price> <category>`
 4. Eliminar un producto: npm run start DELETE products/<productId>
