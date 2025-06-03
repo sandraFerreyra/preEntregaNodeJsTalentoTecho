@@ -1,0 +1,16 @@
+{
+  "name": "wwwnodejs",
+  "version": "1.0.0",
+  "description": "Pre entrega de Talento Techo Node Js",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
